@@ -1,0 +1,15 @@
+[submodule "tkbd"]
+	path = tkbd
+	url = https://github.com/bwesterb/tkbd
+[submodule "tkb.js"]
+	path = tkb.js
+	url = https://github.com/bwesterb/tkb.js
+[submodule "sarah"]
+	path = sarah
+	url = https://github.com/bwesterb/sarah
+[submodule "mirte"]
+	path = mirte
+	url = https://github.com/bwesterb/mirte
+[submodule "py-joyce"]
+	path = py-joyce
+	url = https://github.com/bwesterb/py-joyce
