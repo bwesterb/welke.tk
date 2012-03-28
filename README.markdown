@@ -1,3 +1,5 @@
+![welke.tk webpage](https://github.com/bwesterb/welke.tk/raw/master/doc/welke.tk.png)
+
 Installation
 ============
 1.  Clone `welke.tk` and all subpackages
