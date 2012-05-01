@@ -13,3 +13,6 @@
 [submodule "py-joyce"]
 	path = py-joyce
 	url = https://github.com/bwesterb/py-joyce
+[submodule "py-tkb"]
+	path = py-tkb
+	url = https://github.com/bwesterb/py-tkb
