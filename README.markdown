@@ -7,7 +7,7 @@ Installation
     ```
     $ git clone https://github.com/bwesterb/welke.tk.git
     $ git submodule sync
-    $ git submodule update
+    $ git submodule update --init
     ```
     
 2.  Install various python packages.
